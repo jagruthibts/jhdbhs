@@ -3,4 +3,4 @@ class one{
 	{
 		system.out.printin("hello word!!");
 	}
-
+}
