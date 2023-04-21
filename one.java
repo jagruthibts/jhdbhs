@@ -1,5 +1,5 @@
 class one{
-	public static void main (String[]args)
+	public Static void main (String[]args)
 	{
 		System.out.printin("hello word!!");
 	}
